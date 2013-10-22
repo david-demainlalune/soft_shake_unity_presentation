@@ -68,7 +68,9 @@ http://www.chris-granger.com/2012/12/11/anatomy-of-a-knockout/
 ## resources 
   
 - embedded Asset Store
-- http://www.reddit.com/r/Unity3D/ (links on the left)
+- http://docs.unity3d.com/Documentation/ScriptReference/
+- http://unitygems.com/
+
 --
 ## let's code
 
