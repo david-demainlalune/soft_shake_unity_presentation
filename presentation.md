@@ -74,6 +74,8 @@ http://www.chris-granger.com/2012/12/11/anatomy-of-a-knockout/
 --
 ## let's code
 
+https://github.com/david-demainlalune/SoftShakeAsteroids
+
 
 
 
